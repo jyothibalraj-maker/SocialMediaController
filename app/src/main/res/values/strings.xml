@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_description">When explicitly enabled, monitors which selected social app is open and shows a visible limit screen after five minutes of combined use in the current hour. It does not read screen content.</string>
+</resources>
